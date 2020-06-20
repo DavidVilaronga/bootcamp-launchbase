@@ -1,0 +1,54 @@
+{
+  "teachers": [
+    {
+      "id": 2,
+      "created_at": 1585250582240,
+      "avatar_url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "name": "David Almeida Vilaronga",
+      "birth": 514512000000,
+      "educational_level": "valor1",
+      "type_class": "À distancia",
+      "occupation": "Matemática, Fisica"
+    },
+    {
+      "id": "3",
+      "created_at": 1585250665633,
+      "avatar_url": "https://images.unsplash.com/photo-1577896851231-70ef18881754?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "tais",
+      "birth": 769478400000,
+      "educational_level": "valor1",
+      "type_class": "Presencial",
+      "occupation": "Psicologia"
+    },
+    {
+      "id": "4",
+      "created_at": 1586290375070,
+      "avatar_url": "https://images.unsplash.com/photo-1525571453712-090270b8354f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "David Almeida Vilaronga",
+      "birth": 514512000000,
+      "educational_level": "valor1",
+      "type_class": "À distancia",
+      "occupation": "Matemática, Física, Biologia"
+    },
+    {
+      "id": "6",
+      "created_at": 1586523976400,
+      "avatar_url": "https://images.unsplash.com/photo-1542744094-24638eff58bb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "David Almeida Vilaronga",
+      "birth": 451353600000,
+      "educational_level": "valor1",
+      "type_class": "À distancia",
+      "occupation": "Matemática, Fisica"
+    },
+    {
+      "id": "7",
+      "created_at": 1586524399512,
+      "avatar_url": "https://images.unsplash.com/photo-1551862253-ccddd3b67769?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "David Almeida Vilaronga",
+      "birth": 451353600000,
+      "educational_level": "valor1",
+      "type_class": "Presencial",
+      "occupation": "Matemática, Física, Biologia"
+    }
+  ]
+}
