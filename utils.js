@@ -33,6 +33,22 @@ module.exports = {
         const year = date.getUTCFullYear()
         const month = `0${date.getUTCMonth() + 1}`.slice(-2)
         const day = `0${date.getUTCDate()}`.slice(-2)
-        return `${year}-${month}-${day}`
+        return {
+            day,
+            month,
+            year,
+            iso: `${year}-${month}-${day}`,
+            birthDay: `${day}/${month}`
+        }
+    },
+    grade: function(school_year){
+        const school = school_year
+        if (school=="5ef") return ("5º Ano do Ensino Fundamental")
+        if (school=="6ef") return ("6º Ano do Ensino Fundamental")
+        if (school=="7ef") return ("7º Ano do Ensino Fundamental")
+        if (school=="8ef") return ("8º Ano do Ensino Fundamental")
+        if (school=="1em") return ("1º Ano do Ensino Médio")
+        if (school=="2em") return ("2º Ano do Ensino Médio")
+        if (school=="3em") return ("3º Ano do Ensino Médio")
     }
 }
